@@ -1,10 +1,10 @@
 {
-  "name": "jsonOperaDivulgo",
-  "repository": "git://github.com/gianlucablancato/jsonOperaDivulgo.git",
+  "name": "@gianlucablancato/json-opera-divulgo",
+  "repository": "https://github.com/gianlucablancato/json-opera-divulgo.git",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "lib/outputTypes.js",
+  "types": "lib/outputTypes.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
@@ -20,5 +20,6 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "dependencies": {}
 }
