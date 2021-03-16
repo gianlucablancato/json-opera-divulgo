@@ -107,6 +107,12 @@ type entity = {
   confidenceScore: number;
 };
 export {
+  address,
+  character,
+  date,
+  event,
+  organization,
+  role,
   jsonOpera,
   coords,
   location,

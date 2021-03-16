@@ -1,7 +1,7 @@
 {
   "name": "@gianlucablancato/json-opera-divulgo",
   "repository": "https://github.com/gianlucablancato/json-opera-divulgo.git",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
